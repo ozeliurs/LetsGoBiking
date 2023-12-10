@@ -1,0 +1,13 @@
+
+k
+java:S1192("IDefine a constant instead of duplicating this literal "features" 3 times.(™·’»ÿÿÿÿÿ8²òàªÃ1
+s	java:S116"RRename this field "api_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÀ¦½øÿÿÿÿ8ˆ†¬ªÃ1
+t	java:S116"SRename this field "base_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö²’§ÿÿÿÿÿ8ˆ†¬ªÃ1
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡şÿÿÿÿ8Š†¬ªÃ1
+
+java:S1149="_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡şÿÿÿÿ8Š†¬ªÃ1
+
+java:S1149["_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï„Š¡şÿÿÿÿ8Š†¬ªÃ1
+e
+java:S5361T"HReplace this call to "replaceAll()" by a call to the "replace()" method.(×òÚú8–ÉÒªÃ1
